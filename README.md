@@ -50,8 +50,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://sohail700.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/Sohail0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://sohail700.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-https://sohail700.github.io/-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/Sohail0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sohail%20Khan-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/Sohail700)
