@@ -51,4 +51,4 @@
 <a href="https://www.linkedin.com/in/Sohail0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sohail%20Khan-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/Sohail700)
+⭐️ From [Sohail](https://github.com/Sohail700)
