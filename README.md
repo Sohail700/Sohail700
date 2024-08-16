@@ -41,9 +41,6 @@
 <br/>
 
 <a href="https://github.com/Sohail700">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sohail700&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohail700&theme=buefy&layout=compact" />
-</a>
 
 <br/>
 
