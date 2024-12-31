@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Engineering 
-- 🌱 &nbsp; Learning App development about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; Learning App development, Cloud Architecture, Systems Design and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
