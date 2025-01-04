@@ -3,6 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 🎓 &nbsp; Studying Computer Science and Engineering 
+
 - 🌱 &nbsp; Learning App development, Cloud Architecture, Systems Design and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
