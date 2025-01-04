@@ -42,6 +42,11 @@
 <p align="center">
 <a href="https://sohail700.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-https://sohail700.github.io/-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/Sohail0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sohail%20Khan-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:Sohail.khan196in@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Sohail.khan196in@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+<h3> 📊 &nbsp;My Pull Request Status</h3>
+
+![GitHub pull request status](https://img.shields.io/github/issues-pr/Sohail700?style=flat-square&logo=github)
 
 ⭐️ From [Sohail](https://github.com/Sohail700)
