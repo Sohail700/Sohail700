@@ -45,8 +45,8 @@
 <a href="mailto:Sohail.khan196in@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Sohail.khan196in@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<h3> 📊 &nbsp;My Pull Request Status</h3>
+<h3> 📊 &nbsp;My GitHub Contributions</h3>
 
-![GitHub pull request status](https://img.shields.io/github/issues-pr/Sohail700?style=flat-square&logo=github)
+![Sohail's GitHub contributions](https://github-readme-stats.vercel.app/api?username=Sohail700&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ⭐️ From [Sohail](https://github.com/Sohail700)
