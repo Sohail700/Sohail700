@@ -27,13 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sohail700&show_icons=true&theme=dark&hide_border=true" alt="Sohail's Github Stats" />
 </details>
 
-
-<details>
-  <summary>🔥 GitHub Streak Stats</summary>
-  <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=sohail700&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-</details>
-
 <details>
   <summary>🖱️ Most used languages</summary>
   <br>
@@ -56,11 +49,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sohail700&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Sohail's GitHub Stats" />
-</p>
 
 ---
 
