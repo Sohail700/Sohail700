@@ -1,37 +1,44 @@
-<h2> Hey there! I'm Sohail</h2>
+<h2 align="center">Hey there! I'm Sohail 👋</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-* 🎓 &nbsp; Studying Computer Science and Engineering 
-*  🌱 &nbsp; Learning App development, Cloud Architecture, Systems Design and Artificial Intelligence.
-<!-- -  🖥  See my portfolio at [My Portfolio](http://mohammadfaizan.in) -->
-* 📨  You can contact me at [sohail.khan196in@gmail.com](mailto:sohail.khan196in@gmail.com)
-<!-- - 🚀  I'm currently working on [Open Source](http://GitHub.com/Youth-Icon) -->
-* 🧠  I'm learning Next Js, Kotlin, Svelte
-* 🤝  I'm open to collaborating on intresting projects
+<h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
+- 🎓 &nbsp;Pursuing **Computer Science and Engineering**  
+- 🌱 &nbsp;Currently diving deep into **App Development**, **Cloud Architecture**, **System Design**, and **Artificial Intelligence**  
+- 🧠 &nbsp;Learning **Next.js**, **Kotlin**, and **Svelte**  
+- 🤝 &nbsp;Open to collaborating on **interesting and impactful projects**  
+- 📨 &nbsp;Reach me at: [sohail.khan196in@gmail.com](mailto:sohail.khan196in@gmail.com)  
 
-## Skills 🚀
+---
+
+## 🚀 Skills & Tools
 
 <p align="center">
   <a href="https://discord.gg/vUHMxPvege">
-    <img src="https://skillicons.dev/icons?i=next,kotlin,js,typescript,androidstudio,flutter,figma,blender,java,react,mysql,python,firebase,mongodb,postgresql" />
+    <img src="https://skillicons.dev/icons?i=next,kotlin,js,ts,androidstudio,flutter,figma,blender,java,react,mysql,python,firebase,mongodb,postgresql" alt="Tech stack" />
   </a>
 </p>
-<br/>
 
-<a href="https://github.com/Sohail700">
+---
 
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+## 🤝🏻 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/Sohail0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sohail%20Khan-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:Sohail.khan196in@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Sohail.khan196in@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/Sohail0/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sohail%20Khan-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:Sohail.khan196in@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Sohail.khan196in@gmail.com-blue?style=flat-square&logo=gmail" />
+  </a>
 </p>
 
-<h3> 📊 &nbsp;My GitHub Contributions</h3>
+---
 
-![Sohail's GitHub contributions](https://github-readme-stats.vercel.app/api?username=Sohail700&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sohail700&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Sohail's GitHub Stats" />
+</p>
+
+---
 
 ⭐️ From [Sohail](https://github.com/Sohail700)
