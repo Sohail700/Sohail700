@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://discord.gg/vUHMxPvege">
-    <img src="https://skillicons.dev/icons?i=next,kotlin,js,ts,androidstudio,flutter,figma,blender,java,react,mysql,python,firebase,mongodb,postgresql" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=next,kotlin,js,ts,androidstudio,cpp,java,flutter,figma,java,react,mysql,python,firebase,mongodb,postgresql" alt="Tech stack" />
   </a>
 </p>
 
