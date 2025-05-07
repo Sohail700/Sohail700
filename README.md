@@ -1,4 +1,6 @@
-<h2 align="center">Hey there! I'm Sohail 👋</h2>
+# Hi, I'm Sohail khan! 👋  
+
+I'm a **Software Engineer** passionate about **full-stack Development ,** **App Development**. I love building scalable, efficient systems and continuously strive to blend powerful functionality with great user experiences.
 
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
