@@ -1,9 +1,13 @@
 <h2> Hey there! I'm Sohail</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 🎓 &nbsp; Studying Computer Science and Engineering 
-
-- 🌱 &nbsp; Learning App development, Cloud Architecture, Systems Design and Artificial Intelligence.
+-  🎓 &nbsp; Studying Computer Science and Engineering 
+-  🌱 &nbsp; Learning App development, Cloud Architecture, Systems Design and Artificial Intelligence.
+<!-- -  🖥  See my portfolio at [My Portfolio](http://mohammadfaizan.in) -->
+- 📨  You can contact me at [sohail.khan196in@gmail.com](mailto:sohail.khan196in@gmail.com)
+<!-- - 🚀  I'm currently working on [Open Source](http://GitHub.com/Youth-Icon) -->
+- 🧠  I'm learning Next Js, Kotlin, Svelte
+- 🤝  I'm open to collaborating on intresting projects
 
 
 ## Skills 🚀
