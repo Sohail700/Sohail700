@@ -18,6 +18,8 @@
   </a>
 </p>
 
+img width="450em" src="https://github-profile-trophy.vercel.app/?username=sohail700&theme=onestar&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> 
+
 ---
 ## Stats
 
