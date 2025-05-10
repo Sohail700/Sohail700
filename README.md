@@ -14,7 +14,7 @@ I'm a **Software Engineer** passionate about **full-stack Development ,** **App 
 
 ## 🚀 Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=next,kotlin,js,ts,androidstudio,c,cpp,java,flutter,figma,react,mysql,python,firebase,mongodb,postgresql&theme=light" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=next,kotlin,js,ts,androidstudio,c,cpp,java,flutter,figma,react,mysql,python,firebase,mongodb,postgresql&theme=pastel" alt="Tech stack" />
 </p>
 
 ---
