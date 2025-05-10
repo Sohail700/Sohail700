@@ -34,15 +34,19 @@ I'm a **Software Engineer** passionate about **full-stack Development ,** **App 
 
 ---
 
-## 🤝🏻 Connect with Me
+## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Sohail0/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sohail%20Khan-blue?style=flat-square&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/Sohail0/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:Sohail.khan196in@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Sohail.khan196in@gmail.com-blue?style=flat-square&logo=gmail" />
+  <a href="mailto:Sohail.khan196in@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/Sohail700" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
 </p>
 
 ---
