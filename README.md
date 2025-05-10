@@ -20,17 +20,16 @@ I'm a **Software Engineer** passionate about **full-stack Development ,** **App 
 ---
 ## Stats
 
-<details>
-  <summary>⚡ Github Stats</summary>
+
+ ## Github Stats ⚡
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=sohail700&show_icons=true&theme=dark&hide_border=true" alt="Sohail's Github Stats" />
-</details>
 
-<details>
-  <summary>🖱️ Most used languages</summary>
+
+
+ ## Most used languages 🖱️
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohail700&show_icons=true&locale=en&layout=compact&theme=dark-outline" alt="Sohail's Github Activity Graph" />
-</details>
 
 
 ---
