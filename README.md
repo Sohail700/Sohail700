@@ -6,7 +6,7 @@ I'm a **Software Engineer** passionate about **full-stack Development ,** **App 
 
 - 🎓 &nbsp;Pursuing **Computer Science and Engineering**  
 - 🌱 &nbsp;Currently diving deep into **App Development**, **Cloud Architecture**, **System Design**, and **Artificial Intelligence**  
-- 🧠 &nbsp;Learning **Next.js**, **Kotlin**, and **Svelte**  
+- 🧠 &nbsp;Learning **Next.js**, **React Native**, **Blender**, **AI/ML**  
 - 🤝 &nbsp;Open to collaborating on **interesting and impactful projects**  
 - 📨 &nbsp;Reach me at: [sohail.khan196in@gmail.com](mailto:sohail.khan196in@gmail.com)  
 
