@@ -14,7 +14,7 @@ I'm a **Software Engineer** passionate about **full-stack Development ,** **App 
 
 ## 🚀 Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=next,kotlin,js,ts,androidstudio,c,cpp,java,flutter,figma,react,mysql,python,firebase,mongodb,postgresql&theme=light" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=next,kotlin,js,ts,androidstudio,c,cpp,java,flutter,figma,react,mysql,python,firebase,mongodb,postgresql&theme=dark" alt="Tech stack" />
 </p>
 
 ---
@@ -23,9 +23,9 @@ I'm a **Software Engineer** passionate about **full-stack Development ,** **App 
 
  ## Github Stats ⚡
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=sohail700&show_icons=true&theme=dark&hide_border=true" alt="Sohail's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sohail700&show_icons=true&theme=dark&hide_border=false" alt="Sohail's Github Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hellofaizan&show_icons=true&locale=en&layout=compact&theme=dark" alt="HelloFaizan's Github Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hellofaizan&show_icons=true&locale=en&layout=compact&theme=dark"  />
 </
 </
 
