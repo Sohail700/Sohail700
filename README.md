@@ -24,7 +24,7 @@ I'm a **Software Engineer** passionate about **full-stack Development ,** **App 
  ## Github Stats ⚡
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=sohail700&show_icons=true&theme=dark&hide_border=true" alt="Sohail's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohail700&show_icons=true&locale=en&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamnabeelrahman&show_icons=true&locale=en&layout=compact&theme=dark" />
 </
 
 <br>
