@@ -1,6 +1,6 @@
 # Hi, I'm Sohail khan! 👋  
 
-I'm a **Software Engineer** passionate about **full-stack Development ,** **App Development**. I love building scalable, efficient systems and continuously strive to blend powerful functionality with great user experiences.
+I'm a **Student of CS** passionate about **full-stack Development ,** **Artificial Intelligence**. I love building scalable, efficient systems and continuously strive to blend powerful functionality with great user experiences.
 
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
