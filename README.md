@@ -1,4 +1,5 @@
-# Hi, I'm Sohail khan! 👋  
+# <h1 align="center">Hi, I'm Sohail khan! 👋  
+![universe_1](https://github.com/user-attachments/assets/5a9de62b-8b22-49de-af84-87dec80898a0)
 
 I'm a **Student of CS** passionate about **full-stack Development ,** **Artificial Intelligence**. I love building scalable, efficient systems and continuously strive to blend powerful functionality with great user experiences.
 
@@ -48,8 +49,9 @@ I'm a **Student of CS** passionate about **full-stack Development ,** **Artifici
 
 
 ---
+## FREE PALESTINE
+
+<img src="https://github.com/user-attachments/assets/18116735-cc77-450c-ac61-c592d1e0d7f0" alt="cat winking" width="150" align="right">
+<img src="https://github.com/user-attachments/assets/f38c7a38-f579-47bf-9e73-9bf3c290206f" alt="cat winking" width="150" align="left">
 
 
----
-
-⭐️ From [Sohail](https://github.com/Sohail700)
