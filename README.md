@@ -1,5 +1,5 @@
 # <h1 align="center">Hi, I'm Sohail khan! 👋  
-![universe_1](https://github.com/user-attachments/assets/5a9de62b-8b22-49de-af84-87dec80898a0)
+
 
 I'm a **Student of CS** passionate about **full-stack Development ,** **Artificial Intelligence**. I love building scalable, efficient systems and continuously strive to blend powerful functionality with great user experiences.
 
