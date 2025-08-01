@@ -49,9 +49,9 @@ I'm a **Student of CS** passionate about **full-stack Development ,** **Artifici
 
 
 ---
-## FREE PALESTINE
+<!-- ## FREE PALESTINE
 
 <img src="https://github.com/user-attachments/assets/18116735-cc77-450c-ac61-c592d1e0d7f0" alt="cat winking" width="150" align="right">
-<img src="https://github.com/user-attachments/assets/f38c7a38-f579-47bf-9e73-9bf3c290206f" alt="cat winking" width="150" align="left">
+<img src="https://github.com/user-attachments/assets/f38c7a38-f579-47bf-9e73-9bf3c290206f" alt="cat winking" width="150" align="left"> -->
 
 
