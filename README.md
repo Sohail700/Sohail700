@@ -1,5 +1,3 @@
-# <h1 align="center">Hi, I'm Sohail khan! 👋  
-
 
 I like programming and  **Artificial Intelligence**.
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
@@ -12,7 +10,7 @@ I like programming and  **Artificial Intelligence**.
 
 ---
 
-## 🚀 Skills & Tools
+## My Skills 😁
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,next,js,react&theme=dark" alt="Tech stack" />
 </p>
@@ -21,7 +19,7 @@ I like programming and  **Artificial Intelligence**.
 ## Stats
 
 
- ## Github Stats ⚡
+ ## My Github Stats ⚡
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=sohail700&show_icons=true&theme=dark&hide_border=false" alt="Sohail's Github Stats" />
   
@@ -35,9 +33,6 @@ I like programming and  **Artificial Intelligence**.
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Sohail0/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
   <a href="mailto:Sohail.khan196in@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
