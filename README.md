@@ -1,8 +1,7 @@
 # <h1 align="center">Hi, I'm Sohail khan! 👋  
 
 
-I'm a **Student of CS** passionate about **full-stack Development ,** **Artificial Intelligence**. I love building scalable, efficient systems and continuously strive to blend powerful functionality with great user experiences.
-
+I like programming and  **Artificial Intelligence**.
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
 - 🎓 &nbsp;Pursuing **Computer Science and Engineering**  
@@ -15,7 +14,7 @@ I'm a **Student of CS** passionate about **full-stack Development ,** **Artifici
 
 ## 🚀 Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=next,kotlin,js,ts,androidstudio,c,cpp,java,flutter,figma,react,mysql,python,firebase,mongodb,postgresql&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=next,js,c,cpp,java,react,mysql,python&theme=dark" alt="Tech stack" />
 </p>
 
 ---
@@ -41,9 +40,6 @@ I'm a **Student of CS** passionate about **full-stack Development ,** **Artifici
   </a>
   <a href="mailto:Sohail.khan196in@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-  <a href="https://github.com/Sohail700" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
 </p>
 
