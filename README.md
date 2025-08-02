@@ -23,7 +23,7 @@ I like programming and  **Artificial Intelligence**.
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=sohail700&show_icons=true&theme=lightt&hide_border=false" alt="Sohail's Github Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohail700&show_icons=true&locale=en&layout=compact&theme=light"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohail700&show_icons=true&locale=en&layout=compact&theme=dark"  />
 </
 </
 
