@@ -12,7 +12,7 @@ I like programming and  **Artificial Intelligence**.
 
 ## My Skills 😁
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,next,js,react&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,next,js,react,nodejs&theme=dark" alt="Tech stack" />
 </p>
 
 ---
