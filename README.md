@@ -2,11 +2,9 @@
 I like programming and  **Artificial Intelligence**.
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
-- 🎓 &nbsp;Pursuing **Computer Science and Engineering**  
-- 🌱 &nbsp;Currently diving deep into **App Development**, **Cloud Architecture**, **System Design**, and **Artificial Intelligence**  
-- 🧠 &nbsp;Learning **Next.js**, **React Native**, **AI/ML**  
-- 🤝 &nbsp;Open to collaborating on **interesting and impactful projects**  
-- 📨 &nbsp;Reach me at: [sohail.khan196in@gmail.com](mailto:sohail.khan196in@gmail.com)  
+-  &nbsp;Pursuing **Computer Science and Engineering**  
+-  &nbsp;Open to collaborating on **interesting and impactful projects**  
+-  &nbsp;Reach me at: [sohail.khan196in@gmail.com](mailto:sohail.khan196in@gmail.com)  
 
 ---
 
@@ -40,6 +38,7 @@ I like programming and  **Artificial Intelligence**.
 
 
 ---
+## FREE PALESTINE 🇵🇸
 <!-- ## FREE PALESTINE
 
 <img src="https://github.com/user-attachments/assets/18116735-cc77-450c-ac61-c592d1e0d7f0" alt="cat winking" width="150" align="right">
