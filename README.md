@@ -1,5 +1,5 @@
 <h1> Hey, I'm Suhail 👋 </h1> 
-I like programming and  **Artificial Intelligence**.
+I like programming, football and grass🌿.   
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
 -  &nbsp;Pursuing **Computer Science and Engineering**  
